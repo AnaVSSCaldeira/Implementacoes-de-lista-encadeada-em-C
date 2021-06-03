@@ -2,7 +2,7 @@
  Algumas implementacoes de lista encadeada em C. O usuario pode escolher o que quer fazer com ela.
 Nesse programa, o usuário poderá:
 <br>(1)Inserir elemento na lista
-(2)Mostrar lista
+<br>(2)Mostrar lista
 (3)Remover elemento da lista
 (4)Mostrar tamanho da lista
 (5)Buscar elemento na lista
