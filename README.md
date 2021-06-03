@@ -9,5 +9,3 @@ Algumas implementacoes de lista encadeada em C. O usuario pode escolher o que qu
 <br>(6)Mostrar elemento da lista por posicao
 <br>(7)Trabalhar com arquivo (escrever a lista em um arquivo txt)
 <br>(8)Ordenar lista (pelo método Bubble Sort)
-<br>(9)Trabalhar com pilha (adicionar, remover, ver pilha e ver o tamanho da pilha)
-<br>(10)Trabalhar com fila (adicionar, remover, ver fila e ver o tamanho da fila)
